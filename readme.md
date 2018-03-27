@@ -1,7 +1,8 @@
 # Safetravel
 El proyecto que se presentó fue indagar en una nueva experiencia para viajar en bus, por lo cual trabajé en la parte de investigación y prototipado del MVP (Mínimo producto viable)
 
-![e-bank](img/safetravel.png)
+![safetravel](https://user-images.githubusercontent.com/20954661/37966787-dbd48b9a-319f-11e8-831f-049251651b02.png)
+
 
 ## Proceso de diseño
 
